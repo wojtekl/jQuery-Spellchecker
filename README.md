@@ -5,8 +5,8 @@ spellcheck plugin for CKEditor
 ![Preview](/preview.png)
 
 ## AUTOHRS
-[Richard Willis](https://github.com/badsyntax/jquery-spellchecker)
-[wojtekel](http://mojemiejsce-wojtekel.rhcloud.com)
+- [Richard Willis](https://github.com/badsyntax/jquery-spellchecker)
+- [wojtekel](http://mojemiejsce-wojtekel.rhcloud.com)
 
 ## CONFIGURATION
 jqueryspellchecker/plugin.js
