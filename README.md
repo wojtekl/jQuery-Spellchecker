@@ -1,5 +1,5 @@
 # jQuery-Spellchecker
-spellcheck plugin for CKEditor
+spell check plugin for CKEditor
 
 ## SCREENSHOTS
 ![Preview](/preview.png)
@@ -13,10 +13,11 @@ jqueryspellchecker/plugin.js
 - replace 'pl' with desired language code where 'lang'.
 
 ## INSTALLATION
-1. Install aspell.
-2. Install php-enchant or php-pspell and libpspell-dev.
-3. In jqueryspellchecker/plugin.js:
+1. Download CKEditor with WebSpellChecker plugin.
+2. Install aspell.
+3. Install php-enchant or php-pspell and libpspell-dev.
+4. In jqueryspellchecker/plugin.js:
 - replace 'enchant' with 'pspell' where 'driver' if installed second one or skip this step otherwise.
-4. Move jqueryspellchecker directory to CKEditors plugin directory.
-5. Move css, js and webservices directories to CKEditors directory.
-6. Append 'jqueryspellchecker' to 'extraPlugins'.
+5. Move jqueryspellchecker directory to CKEditors plugin directory.
+6. Move css, js and webservices directories to CKEditors directory.
+7. Append 'jqueryspellchecker' to 'extraPlugins'.
